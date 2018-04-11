@@ -30,7 +30,7 @@ git clone https://github.com/jpratik21/QA-N26.git
 	- File->Import->Existing Projects into Workspace 
 	- Choose `QA-N26` folder
 5. Download Rest-Assured Jars `rest-assured-3.0.6-dist.zip` from [here](https://github.com/rest-assured/rest-assured/wiki/Downloads)
-6. Unzip the file downloaded in step. Further, unzip `*-deps.zip` file inside it.
+6. Unzip the file downloaded in step 5. Further, unzip `*-deps.zip` file inside it.
 7. Add above jars into your project's build path: 
 	Right click on Project -> Properties->Java Build Path->Add External Jars
 	Choose `rest-assured-*.jar` and all the jars inside `*-deps` folder.
