@@ -27,8 +27,8 @@ Setup Instructions
 git clone https://github.com/jpratik21/QA-N26.git
 ```
 4. Import cloned repo in step 3 as Java project in Eclipse:
-	a) File->Import->Existing Projects into Workspace 
-	b) Choose `QA-N26` folder
+	- File->Import->Existing Projects into Workspace 
+	- Choose `QA-N26` folder
 5. Download Rest-Assured Jars `rest-assured-3.0.6-dist.zip` from [here](https://github.com/rest-assured/rest-assured/wiki/Downloads)
 6. Unzip the file downloaded in step. Further, unzip `*-deps.zip` file inside it.
 7. Add above jars into your project's build path: 
